@@ -1,0 +1,6 @@
+setgroupusage: "§b§lTICK §cUtilize o formato correto: /setgroup <user> <group> <duration or perm>"
+setgroupwrong: "§b§lTICK §cEsse grupo não existe. Utilize /groups para ver todos os grupos."
+setgrouplist: "§b§lTICK §fLista de grupos: §7Membro§f, §1Lápis§f, §8Ferro§f, §6Ouro§f, §bDiamante§f, §aEsmeralda§f, §cYou§fTuber, §3YouTuber+§f, §eAjudante§f, §2Moderador§f, §cAdmin§f, §4Gerente§f e §6Master§f."
+darvipusage: "§b§lTICK §cUtilize o formato correto. /darvip <user> <vip> <duration or perm>"
+darvipwrong: "§b§lTICK §cEsse vip não existe. Utilize /vips para ver todos os vips."
+darviplist: "§b§lTICK §fLista de vips: §1Lápis§f, §8Ferro§f, §6Ouro§f, §bDiamante§f, §aEsmeralda"

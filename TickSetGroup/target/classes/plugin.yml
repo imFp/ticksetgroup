@@ -1,0 +1,20 @@
+name: TickSetGroup
+version: '1.0-SNAPSHOT'
+main: dev.fp.ticksetgroup.Main
+commands:
+  setgroup:
+    description: "Sete o grupo de um usuário"
+    aliases: "setargrupo"
+    permission: "tick.setgroup"
+  groups:
+    description: "Lista de todos os grupos"
+    aliases: "grouplist"
+    permission: "tick.grouplist"
+  darvip:
+    description: "Dar vip à um usuário"
+    aliases: "givevip"
+    permission: "tick.darvip"
+  vips:
+    description: "Lista de todos os vips"
+    aliases: "viplist"
+    permission: "tick.viplist"

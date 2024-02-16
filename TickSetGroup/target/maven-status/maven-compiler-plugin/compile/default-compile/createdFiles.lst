@@ -1,0 +1,9 @@
+dev\fp\ticksetgroup\Main.class
+dev\fp\ticksetgroup\util\GroupManager.class
+dev\fp\ticksetgroup\commands\GroupList.class
+dev\fp\ticksetgroup\commands\SetGroup.class
+dev\fp\ticksetgroup\event\PlayerEvents.class
+dev\fp\ticksetgroup\plugin\FileUtils.class
+dev\fp\ticksetgroup\plugin\Config.class
+dev\fp\ticksetgroup\commands\Vips.class
+dev\fp\ticksetgroup\commands\DarVip.class
